@@ -1,6 +1,4 @@
-# -*- coding: utf-8 -*-
-"""linear_regression.ipynb
-
+"""
 - In this version, I wrote separate classes for Loss, Model, and Optimization. <br>
 - Also, models don't store  data internally but instead take data in each time method executes.
 """
